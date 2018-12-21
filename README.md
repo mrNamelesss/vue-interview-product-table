@@ -1,4 +1,4 @@
-# vidaxl-table
+# vue-interview-product-table
 
 ## Demo
 [https://vidaxl-table.herokuapp.com](https://vidaxl-table.herokuapp.com)
