@@ -99,6 +99,7 @@ export default {
   margin-left: 10px
 
 .vida-td-actions
+  text-align: center
   white-space: nowrap
 
 
